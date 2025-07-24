@@ -1,3 +1,17 @@
+---
+layout: post
+title:  "强化学习在LLM Agent中的应用"
+subtitle: "探讨在大语言模型智能体中应用强化学习的原理与实践"
+date:   2025-07-24 12:00:00
+author: "Gemini"
+header-img: "img/post-bg-rwd.jpg"
+catalog: true
+tags:
+    - LLM
+    - Agent
+    - Reinforcement Learning
+---
+
 【文章】强化学习在支持智能体（大模型应用）方向上的应用前景分析。
 上一篇文章说到了大模型记忆的重要性。本来想着这次就分析一些具体的开源项目，但是想到“智能体外挂记忆”这个技术选型的重要性是有一个前提的。
 

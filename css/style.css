@@ -1,0 +1,32 @@
+a {
+    text-decoration: none;
+}
+
+.card-title a {
+    color: #333;
+    transition: color 0.2s;
+}
+
+.card-title a:hover {
+    color: #007bff;
+}
+
+/* TOC styles */
+#toc-container {
+    top: 20px; /* Add some space from the top */
+}
+
+#toc .nav-link {
+    font-size: 0.9rem;
+    padding: 0.25rem 0;
+    color: #6c757d;
+}
+
+#toc .nav-link:hover {
+    color: #007bff;
+}
+
+#toc .nav-link.active {
+    font-weight: bold;
+    color: #007bff;
+}
